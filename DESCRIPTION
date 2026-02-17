@@ -1,0 +1,12 @@
+Package: mfrmmx
+Type: Package
+Title: Concise Summary of What the Package Does
+Version: 1.0
+Date: 2026-02-16
+Authors@R: person("Your", "Name", role = c("aut", "cre"), email = "your@email.com")
+Description: More about what it does (maybe more than one line).
+License: GPL (>= 2)
+Encoding: UTF-8
+RoxygenNote: 7.3.3
+Imports: Rcpp (>= 1.1.1)
+LinkingTo: Rcpp, RcppArmadillo, RcppDist, RcppEigen
